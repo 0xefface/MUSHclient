@@ -15,6 +15,20 @@
    world_file_version="15"
   >
   <variable name="XRunToCheckVidblain">false</variable>
+  <variable name="areaStartRooms">{
+  ahner = {
+    areaname = "Kingdom of Ahner",
+    roomid = "30129",
+    },
+  greece = {
+    areaname = "Ancient Greece",
+    roomid = "2161",
+    },
+  underdark = {
+    areaname = "The UnderDark",
+    roomid = "27341",
+    },
+  }</variable>
   <variable name="example"></variable>
 </variables>
 </muclient>

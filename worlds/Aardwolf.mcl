@@ -176,11 +176,33 @@ ColourNote ("white", "green", "Added trigger to match on '%1', sending '%2'")
   </send>
   </alias>
   <alias
-   match="c food"
+   match="cfood"
    enabled="y"
    sequence="100"
   >
   <send>cast 'mind over body'</send>
+  </alias>
+  <alias
+   match="cheal"
+   enabled="y"
+   sequence="100"
+  >
+  <send>cast 132
+cast 103</send>
+  </alias>
+  <alias
+   match="cs"
+   enabled="y"
+   sequence="100"
+  >
+  <send>cast 294</send>
+  </alias>
+  <alias
+   match="health"
+   enabled="y"
+   sequence="100"
+  >
+  <send>quaff serious</send>
   </alias>
   <alias
    match="home"
@@ -190,6 +212,21 @@ ColourNote ("white", "green", "Added trigger to match on '%1', sending '%2'")
   <send>hold portal
 enter
 hold brush</send>
+  </alias>
+  <alias
+   match="k *"
+   enabled="y"
+   sequence="100"
+  >
+  <send>cast 298 %1
+cast 194</send>
+  </alias>
+  <alias
+   match="mana"
+   enabled="y"
+   sequence="100"
+  >
+  <send>quaff lotus</send>
   </alias>
   <alias
    match="menter *"
@@ -316,24 +353,6 @@ hold brush</send>
 
   <macro name="quit" type="send_now" >
   <send>QUIT</send>
-
-  </macro>
-
-  <macro name="Alt+A" type="send_now" >
-  <send>cast 355
-cast 130</send>
-
-  </macro>
-
-  <macro name="Alt+B" type="send_now" >
-  <send>cast 132
-cast 103</send>
-
-  </macro>
-
-  <macro name="Alt+S" type="send_now" >
-  <send>cast 298
-cast 194</send>
 
   </macro>
 </macros>
