@@ -17,7 +17,7 @@
    mapping_failure="Alas, you cannot go that way."
    name="Aardwolf"
    new_activity_sound="(No sound)"
-   output_font_name="Courier"
+   output_font_name="Inconsolata"
    script_editor="notepad"
    script_editor_argument="%file"
    script_language="Lua"
