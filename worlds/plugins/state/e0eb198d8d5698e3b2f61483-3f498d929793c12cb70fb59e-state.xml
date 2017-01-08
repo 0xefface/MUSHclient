@@ -18,16 +18,16 @@
   <variable name="enabled">true</variable>
   <variable name="font_name">Liberation Mono</variable>
   <variable name="font_size">9</variable>
-  <variable name="height">269</variable>
+  <variable name="height">320</variable>
   <variable name="maptype">1</variable>
   <variable name="mw_3f498d929793c12cb70fb59e_windowflags">2</variable>
   <variable name="mw_3f498d929793c12cb70fb59e_windowmode">0</variable>
-  <variable name="mw_3f498d929793c12cb70fb59e_windowx">560</variable>
-  <variable name="mw_3f498d929793c12cb70fb59e_windowy">377</variable>
+  <variable name="mw_3f498d929793c12cb70fb59e_windowx">283</variable>
+  <variable name="mw_3f498d929793c12cb70fb59e_windowy">643</variable>
   <variable name="showcoords">0</variable>
   <variable name="showexits">0</variable>
   <variable name="showtitle">1</variable>
   <variable name="title_colour">2697513</variable>
-  <variable name="width">214</variable>
+  <variable name="width">223</variable>
 </variables>
 </muclient>

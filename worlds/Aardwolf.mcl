@@ -68,9 +68,8 @@
    mud_can_change_options="y"
    note_text_colour="#040000"
    omit_date_from_save_files="y"
-   output_font_height="10"
+   output_font_height="12"
    output_font_weight="400"
-   output_font_charset="1"
    paste_delay_per_lines="1"
    pixel_offset="1"
    port="23"
@@ -96,7 +95,7 @@
    unpause_on_send="y"
    use_custom_link_colour="y"
    warn_if_scripting_inactive="y"
-   wrap_column="138"
+   wrap_column="114"
    write_world_name_to_log="y"
    > <!-- end of general world attributes -->
 

@@ -32,12 +32,12 @@
   <variable name="flat_gauges">0</variable>
   <variable name="font_name">Dina</variable>
   <variable name="font_size">8</variable>
-  <variable name="height">586</variable>
+  <variable name="height">324</variable>
   <variable name="hidden">0</variable>
   <variable name="mw_f178e68512c685b3be1e9b07_windowflags">2</variable>
   <variable name="mw_f178e68512c685b3be1e9b07_windowmode">0</variable>
-  <variable name="mw_f178e68512c685b3be1e9b07_windowx">286</variable>
-  <variable name="mw_f178e68512c685b3be1e9b07_windowy">375</variable>
+  <variable name="mw_f178e68512c685b3be1e9b07_windowx">507</variable>
+  <variable name="mw_f178e68512c685b3be1e9b07_windowy">642</variable>
   <variable name="overlay_numbers">0</variable>
   <variable name="show_hp">1</variable>
   <variable name="show_mn">1</variable>
@@ -50,6 +50,6 @@
   <variable name="thresh2color">255</variable>
   <variable name="thresh2percent">20</variable>
   <variable name="title_colour">2697513</variable>
-  <variable name="width">272</variable>
+  <variable name="width">267</variable>
 </variables>
 </muclient>
