@@ -70,6 +70,7 @@
    omit_date_from_save_files="y"
    output_font_height="12"
    output_font_weight="400"
+   output_font_charset="1"
    paste_delay_per_lines="1"
    pixel_offset="1"
    port="23"
@@ -95,6 +96,7 @@
    unpause_on_send="y"
    use_custom_link_colour="y"
    warn_if_scripting_inactive="y"
+   wrap="y"
    wrap_column="114"
    write_world_name_to_log="y"
    > <!-- end of general world attributes -->
@@ -188,6 +190,22 @@ ColourNote ("white", "green", "Added trigger to match on '%1', sending '%2'")
   <send>hold portal
 enter
 hold brush</send>
+  </alias>
+  <alias
+   match="menter *"
+   enabled="y"
+   send_to="10"
+   sequence="100"
+  >
+  <send>mapper cexit enter %1;;%1</send>
+  </alias>
+  <alias
+   match="mopen *"
+   enabled="y"
+   send_to="10"
+   sequence="100"
+  >
+  <send>mapper cexit open %1;;%1</send>
   </alias>
 </aliases>
 
@@ -309,14 +327,12 @@ cast 130</send>
 
   <macro name="Alt+B" type="send_now" >
   <send>cast 132
-cast 103
-</send>
+cast 103</send>
 
   </macro>
 
   <macro name="Alt+S" type="send_now" >
-  <send>cast 112
-cast 298
+  <send>cast 298
 cast 194</send>
 
   </macro>
@@ -541,4 +557,9 @@ cast 194</send>
 <include name="aard_repaint_buffer.xml" plugin="y" />
 <include name="aard_new_connection.xml" plugin="y" />
 <include name="aard_prompt_fixer.xml" plugin="y" />
+<include name="WinkleWinkle_Quest_Status.xml" plugin="y" />
+<include name="WinkleWinkle_Spellup_2.xml" plugin="y" />
+<include name="WinkleWinkle_Search_Destroy_2.xml" plugin="y" />
+<include name="WinkleWinkle_Mapper_Extender_2.xml" plugin="y" />
+<include name="WinkleWinkle_Extender_GUI_2.xml" plugin="y" />
 </muclient>

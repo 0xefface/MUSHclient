@@ -38,7 +38,10 @@
   LAST_VISIT_TIME = {
     time = 180,
     },
-  SHOW_AREA_EXITS = false,
+  AREA_NAME_BORDER = {
+    name = "Area name box",
+    colour = 0,
+    },
   ROOM_NAME_BORDER = {
     name = "Room name box",
     colour = 0,
@@ -51,13 +54,13 @@
     name = "Guild",
     colour = 16711935,
     },
-  BANK_FILL_COLOUR = {
-    name = "Bank",
-    colour = 55295,
+  MAPPER_NOTE_COLOUR = {
+    name = "Messages",
+    colour = 9498256,
     },
-  FONT = {
-    size = 8,
-    name = "Dina",
+  SHOP_FILL_COLOUR = {
+    name = "Shop",
+    colour = 3124735,
     },
   SCAN = {
     depth = 300,
@@ -74,13 +77,13 @@
     name = "Unknown room",
     colour = 139,
     },
-  AREA_NAME_BORDER = {
-    name = "Area name box",
-    colour = 0,
+  TRAINER_FILL_COLOUR = {
+    name = "Trainer",
+    colour = 3329434,
     },
-  AREA_NAME_FILL = {
-    name = "Area name fill",
-    colour = 5461520,
+  AREA_NAME_TEXT = {
+    name = "Area name text",
+    colour = 15856574,
     },
   BACKGROUND_COLOUR = {
     name = "Area Background",
@@ -90,54 +93,51 @@
     height = 323,
     width = 281,
     },
-  DIFFERENT_AREA_COLOUR = {
-    name = "Another area",
-    colour = 255,
+  ROOM_NAME_FILL = {
+    name = "Room name fill",
+    colour = 5461520,
     },
   OUR_ROOM_COLOUR = {
     name = "Our room",
     colour = 9639167,
     },
-  EXIT_COLOUR_UP_DOWN = {
-    name = "Exit up/down",
-    colour = 12695295,
-    },
   SAFEROOM_FILL_COLOUR = {
     name = "Safe room",
     colour = 15128749,
     },
-  ROOM_NAME_FILL = {
-    name = "Room name fill",
-    colour = 5461520,
+  DIFFERENT_AREA_COLOUR = {
+    name = "Another area",
+    colour = 255,
     },
-  AREA_NAME_TEXT = {
-    name = "Area name text",
-    colour = 15856574,
+  EXIT_COLOUR_UP_DOWN = {
+    name = "Exit up/down",
+    colour = 12695295,
+    },
+  AREA_NAME_FILL = {
+    name = "Area name fill",
+    colour = 5461520,
     },
   SHOW_ROOM_ID = false,
   PK_BORDER_COLOUR = {
     name = "PK border",
     colour = 255,
     },
-  SHOP_FILL_COLOUR = {
-    name = "Shop",
-    colour = 3124735,
+  FONT = {
+    size = 8,
+    name = "Dina",
     },
-  MAPPER_NOTE_COLOUR = {
-    name = "Messages",
-    colour = 9498256,
+  BANK_FILL_COLOUR = {
+    name = "Bank",
+    colour = 55295,
     },
-  TRAINER_FILL_COLOUR = {
-    name = "Trainer",
-    colour = 3329434,
-    },
+  SHOW_AREA_EXITS = false,
   }</variable>
   <variable name="enabled">true</variable>
   <variable name="last_auto_backup">1483839003</variable>
   <variable name="mw_b6eae87ccedd84f510b74714_mapper_windowflags">2</variable>
   <variable name="mw_b6eae87ccedd84f510b74714_mapper_windowmode">0</variable>
-  <variable name="mw_b6eae87ccedd84f510b74714_mapper_windowx">0</variable>
-  <variable name="mw_b6eae87ccedd84f510b74714_mapper_windowy">641</variable>
+  <variable name="mw_b6eae87ccedd84f510b74714_mapper_windowx">2</variable>
+  <variable name="mw_b6eae87ccedd84f510b74714_mapper_windowy">596</variable>
   <variable name="quick_mode">1</variable>
   <variable name="shownotes">1</variable>
 </variables>
