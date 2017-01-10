@@ -195,7 +195,7 @@ cast 103</send>
    enabled="y"
    sequence="100"
   >
-  <send>cast 294</send>
+  <send>cast 200</send>
   </alias>
   <alias
    match="health"
@@ -234,7 +234,7 @@ cast 194</send>
    send_to="10"
    sequence="100"
   >
-  <send>mapper cexit enter %1;;%1</send>
+  <send>mapper cexit enter %1</send>
   </alias>
   <alias
    match="mopen *"
