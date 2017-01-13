@@ -17,7 +17,7 @@
   <variable name="channels_table">channels_table = {}
   channels_table.gametalk = {}
   channels_table.wangrp = {}
-  channels_table.gossip = {}
+  channels_table.debate = {}
   channels_table.music = {}
   channels_table.gclan = {}
   channels_table.helper = {}
@@ -34,7 +34,7 @@
   channels_table.lasertag = {}
   channels_table.rauction = {}
   channels_table.auction = {}
-  channels_table.debate = {}
+  channels_table.gossip = {}
   channels_table.yell = {}
   channels_table.mxit = {}
   channels_table.ptell = {}

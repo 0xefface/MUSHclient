@@ -176,6 +176,13 @@ ColourNote ("white", "green", "Added trigger to match on '%1', sending '%2'")
   </send>
   </alias>
   <alias
+   match="ca"
+   enabled="y"
+   sequence="100"
+  >
+  <send>cast 136</send>
+  </alias>
+  <alias
    match="cfood"
    enabled="y"
    sequence="100"
@@ -195,14 +202,14 @@ cast 103</send>
    enabled="y"
    sequence="100"
   >
-  <send>cast 200</send>
+  <send>cast 137</send>
   </alias>
   <alias
    match="health"
    enabled="y"
    sequence="100"
   >
-  <send>quaff serious</send>
+  <send>quaff triple</send>
   </alias>
   <alias
    match="home"
@@ -211,7 +218,7 @@ cast 103</send>
   >
   <send>hold portal
 enter
-hold brush</send>
+hold jumbo</send>
   </alias>
   <alias
    match="k *"
@@ -226,7 +233,7 @@ cast 194</send>
    enabled="y"
    sequence="100"
   >
-  <send>quaff lotus</send>
+  <send>quaff lucidity</send>
   </alias>
   <alias
    match="menter *"
