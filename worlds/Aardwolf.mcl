@@ -70,6 +70,7 @@
    omit_date_from_save_files="y"
    output_font_height="14"
    output_font_weight="400"
+   output_font_charset="1"
    paste_delay_per_lines="1"
    pixel_offset="1"
    port="23"
@@ -96,7 +97,7 @@
    use_custom_link_colour="y"
    warn_if_scripting_inactive="y"
    wrap="y"
-   wrap_column="95"
+   wrap_column="90"
    write_world_name_to_log="y"
    > <!-- end of general world attributes -->
 
