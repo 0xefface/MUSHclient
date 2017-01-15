@@ -27,7 +27,7 @@
   channels_table.wardrums = {}
   channels_table.nobletalk = {}
   channels_table.newbie = {}
-  channels_table.racetalk = {}
+  channels_table.gratz = {}
   channels_table.curse = {}
   channels_table.sports = {}
   channels_table.advice = {}
@@ -46,14 +46,14 @@
   channels_table.pchat = {}
   channels_table.gtell = {}
   channels_table.mobsay = {}
-  channels_table.gratz = {}
+  channels_table.pokerinfo = {}
   channels_table.dtell = {}
   channels_table.barter = {}
   channels_table.tiertalk = {}
   channels_table.market = {}
   channels_table.immtalk = {}
   channels_table.spouse = {}
-  channels_table.pokerinfo = {}
+  channels_table.racetalk = {}
   channels_table.tech = {}
   channels_table.question = {}
   channels_table.tell = {}

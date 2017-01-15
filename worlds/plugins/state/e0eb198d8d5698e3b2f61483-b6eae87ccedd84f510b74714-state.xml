@@ -16,7 +16,7 @@
   >
   <variable name="DISTANCE_TO_NEXT_ROOM">10</variable>
   <variable name="ROOM_SIZE">14</variable>
-  <variable name="auto_backup_count">10</variable>
+  <variable name="auto_backup_count">12</variable>
   <variable name="backup_timer_enabled">1</variable>
   <variable name="config"></variable>
   <variable name="configs">configs = {
@@ -38,10 +38,7 @@
   LAST_VISIT_TIME = {
     time = 180,
     },
-  TRAINER_FILL_COLOUR = {
-    name = "Trainer",
-    colour = 3329434,
-    },
+  SHOW_AREA_EXITS = false,
   ROOM_NAME_BORDER = {
     name = "Room name box",
     colour = 0,
@@ -77,7 +74,10 @@
     name = "Unknown room",
     colour = 139,
     },
-  SHOW_AREA_EXITS = false,
+  AREA_NAME_BORDER = {
+    name = "Area name box",
+    colour = 0,
+    },
   AREA_NAME_TEXT = {
     name = "Area name text",
     colour = 15856574,
@@ -102,13 +102,13 @@
     name = "Safe room",
     colour = 15128749,
     },
-  DIFFERENT_AREA_COLOUR = {
-    name = "Another area",
-    colour = 255,
-    },
   EXIT_COLOUR_UP_DOWN = {
     name = "Exit up/down",
     colour = 12695295,
+    },
+  DIFFERENT_AREA_COLOUR = {
+    name = "Another area",
+    colour = 255,
     },
   AREA_NAME_FILL = {
     name = "Area name fill",
@@ -127,13 +127,13 @@
     name = "Bank",
     colour = 55295,
     },
-  AREA_NAME_BORDER = {
-    name = "Area name box",
-    colour = 0,
+  TRAINER_FILL_COLOUR = {
+    name = "Trainer",
+    colour = 3329434,
     },
   }</variable>
   <variable name="enabled">true</variable>
-  <variable name="last_auto_backup">1484285697</variable>
+  <variable name="last_auto_backup">1484460912</variable>
   <variable name="mw_b6eae87ccedd84f510b74714_mapper_windowflags">2</variable>
   <variable name="mw_b6eae87ccedd84f510b74714_mapper_windowmode">0</variable>
   <variable name="mw_b6eae87ccedd84f510b74714_mapper_windowx">2</variable>

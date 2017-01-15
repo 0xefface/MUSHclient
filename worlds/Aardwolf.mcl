@@ -68,9 +68,8 @@
    mud_can_change_options="y"
    note_text_colour="#040000"
    omit_date_from_save_files="y"
-   output_font_height="12"
+   output_font_height="14"
    output_font_weight="400"
-   output_font_charset="1"
    paste_delay_per_lines="1"
    pixel_offset="1"
    port="23"
@@ -97,7 +96,7 @@
    use_custom_link_colour="y"
    warn_if_scripting_inactive="y"
    wrap="y"
-   wrap_column="114"
+   wrap_column="95"
    write_world_name_to_log="y"
    > <!-- end of general world attributes -->
 
@@ -209,7 +208,7 @@ cast 103</send>
    enabled="y"
    sequence="100"
   >
-  <send>quaff triple</send>
+  <send>quaff ballad</send>
   </alias>
   <alias
    match="home"
