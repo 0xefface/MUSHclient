@@ -38,10 +38,7 @@
   LAST_VISIT_TIME = {
     time = 180,
     },
-  TRAINER_FILL_COLOUR = {
-    name = "Trainer",
-    colour = 3329434,
-    },
+  SHOW_AREA_EXITS = false,
   ROOM_NAME_BORDER = {
     name = "Room name box",
     colour = 0,
@@ -77,7 +74,10 @@
     name = "Unknown room",
     colour = 139,
     },
-  SHOW_AREA_EXITS = false,
+  AREA_NAME_BORDER = {
+    name = "Area name box",
+    colour = 0,
+    },
   AREA_NAME_FILL = {
     name = "Area name fill",
     colour = 5461520,
@@ -90,17 +90,17 @@
     height = 349,
     width = 348,
     },
-  DIFFERENT_AREA_COLOUR = {
-    name = "Another area",
-    colour = 255,
+  EXIT_COLOUR_UP_DOWN = {
+    name = "Exit up/down",
+    colour = 12695295,
     },
   OUR_ROOM_COLOUR = {
     name = "Our room",
     colour = 9639167,
     },
-  EXIT_COLOUR_UP_DOWN = {
-    name = "Exit up/down",
-    colour = 12695295,
+  DIFFERENT_AREA_COLOUR = {
+    name = "Another area",
+    colour = 255,
     },
   SAFEROOM_FILL_COLOUR = {
     name = "Safe room",
@@ -127,9 +127,9 @@
     name = "Messages",
     colour = 9498256,
     },
-  AREA_NAME_BORDER = {
-    name = "Area name box",
-    colour = 0,
+  TRAINER_FILL_COLOUR = {
+    name = "Trainer",
+    colour = 3329434,
     },
   }</variable>
   <variable name="enabled">true</variable>

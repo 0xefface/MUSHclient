@@ -108,12 +108,12 @@
         style = 0,
         text = "##",
         },
-      [3] = {
+      [18] = {
         backcolour = 0,
-        textcolour = 16711680,
-        length = 1,
-        style = 1,
-        text = "~",
+        textcolour = 32896,
+        length = 3,
+        style = 0,
+        text = "^^^",
         },
       [20] = {
         backcolour = 0,
@@ -122,12 +122,12 @@
         style = 1,
         text = "~~~~~~~~~~~",
         },
-      [18] = {
+      [3] = {
         backcolour = 0,
-        textcolour = 32896,
-        length = 3,
-        style = 0,
-        text = "^^^",
+        textcolour = 16711680,
+        length = 1,
+        style = 1,
+        text = "~",
         },
       [17] = {
         backcolour = 0,
@@ -674,12 +674,12 @@
         style = 0,
         text = ".",
         },
-      [3] = {
+      [18] = {
         backcolour = 0,
-        textcolour = 16777215,
-        length = 1,
-        style = 1,
-        text = "#",
+        textcolour = 32768,
+        length = 3,
+        style = 0,
+        text = "###",
         },
       [20] = {
         backcolour = 0,
@@ -688,12 +688,12 @@
         style = 0,
         text = "#",
         },
-      [18] = {
+      [3] = {
         backcolour = 0,
-        textcolour = 32768,
-        length = 3,
-        style = 0,
-        text = "###",
+        textcolour = 16777215,
+        length = 1,
+        style = 1,
+        text = "#",
         },
       [17] = {
         backcolour = 0,
@@ -1014,12 +1014,12 @@
         style = 0,
         text = "##",
         },
-      [4] = {
+      [26] = {
         backcolour = 0,
-        textcolour = 16777215,
+        textcolour = 12632256,
         length = 1,
-        style = 1,
-        text = "#",
+        style = 0,
+        text = ".",
         },
       [28] = {
         backcolour = 0,
@@ -1028,12 +1028,12 @@
         style = 1,
         text = "**",
         },
-      [26] = {
+      [4] = {
         backcolour = 0,
-        textcolour = 12632256,
+        textcolour = 16777215,
         length = 1,
-        style = 0,
-        text = ".",
+        style = 1,
+        text = "#",
         },
       [18] = {
         backcolour = 0,
@@ -1240,12 +1240,12 @@
         style = 0,
         text = "########",
         },
-      [3] = {
+      [18] = {
         backcolour = 0,
         textcolour = 32768,
-        length = 3,
+        length = 1,
         style = 0,
-        text = "###",
+        text = "#",
         },
       [20] = {
         backcolour = 0,
@@ -1254,12 +1254,12 @@
         style = 0,
         text = "##########",
         },
-      [18] = {
+      [3] = {
         backcolour = 0,
         textcolour = 32768,
-        length = 1,
+        length = 3,
         style = 0,
-        text = "#",
+        text = "###",
         },
       [17] = {
         backcolour = 0,
@@ -1435,19 +1435,19 @@
         style = 0,
         text = "##",
         },
-      [3] = {
-        backcolour = 0,
-        textcolour = 32896,
-        length = 2,
-        style = 0,
-        text = "^^",
-        },
       [18] = {
         backcolour = 0,
         textcolour = 32768,
         length = 3,
         style = 0,
         text = "###",
+        },
+      [3] = {
+        backcolour = 0,
+        textcolour = 32896,
+        length = 2,
+        style = 0,
+        text = "^^",
         },
       [17] = {
         backcolour = 0,
@@ -1619,12 +1619,12 @@
         style = 1,
         text = "*****",
         },
-      [3] = {
+      [18] = {
         backcolour = 0,
-        textcolour = 16777215,
+        textcolour = 16711680,
         length = 1,
         style = 1,
-        text = "#",
+        text = ".",
         },
       [20] = {
         backcolour = 0,
@@ -1633,12 +1633,12 @@
         style = 1,
         text = "**",
         },
-      [18] = {
+      [3] = {
         backcolour = 0,
-        textcolour = 16711680,
+        textcolour = 16777215,
         length = 1,
         style = 1,
-        text = ".",
+        text = "#",
         },
       [17] = {
         backcolour = 0,
@@ -2143,12 +2143,12 @@
         style = 1,
         text = "?#",
         },
-      [4] = {
+      [26] = {
         backcolour = 0,
         textcolour = 32768,
-        length = 1,
+        length = 8,
         style = 0,
-        text = "#",
+        text = "########",
         },
       [28] = {
         backcolour = 0,
@@ -2157,12 +2157,12 @@
         style = 1,
         text = "?",
         },
-      [26] = {
+      [4] = {
         backcolour = 0,
         textcolour = 32768,
-        length = 8,
+        length = 1,
         style = 0,
-        text = "########",
+        text = "#",
         },
       [18] = {
         backcolour = 0,
@@ -2327,7 +2327,7 @@
         style = 1,
         text = "#",
         },
-      [3] = {
+      [18] = {
         backcolour = 0,
         textcolour = 32768,
         length = 4,
@@ -2341,7 +2341,7 @@
         style = 1,
         text = "~",
         },
-      [18] = {
+      [3] = {
         backcolour = 0,
         textcolour = 32768,
         length = 4,
@@ -2504,12 +2504,12 @@
         style = 1,
         text = "~",
         },
-      [4] = {
+      [26] = {
         backcolour = 0,
         textcolour = 65535,
-        length = 1,
+        length = 2,
         style = 1,
-        text = ".",
+        text = "..",
         },
       [28] = {
         backcolour = 0,
@@ -2518,12 +2518,12 @@
         style = 1,
         text = ".",
         },
-      [26] = {
+      [4] = {
         backcolour = 0,
         textcolour = 65535,
-        length = 2,
+        length = 1,
         style = 1,
-        text = "..",
+        text = ".",
         },
       [18] = {
         backcolour = 0,
@@ -3731,19 +3731,19 @@
         style = 0,
         text = "#",
         },
-      [3] = {
-        backcolour = 0,
-        textcolour = 32768,
-        length = 3,
-        style = 0,
-        text = "###",
-        },
       [18] = {
         backcolour = 0,
         textcolour = 16711680,
         length = 1,
         style = 1,
         text = "~",
+        },
+      [3] = {
+        backcolour = 0,
+        textcolour = 32768,
+        length = 3,
+        style = 0,
+        text = "###",
         },
       [17] = {
         backcolour = 0,
@@ -4776,7 +4776,7 @@
         style = 0,
         text = "#####",
         },
-      [3] = {
+      [18] = {
         backcolour = 0,
         textcolour = 16777215,
         length = 1,
@@ -4790,7 +4790,7 @@
         style = 0,
         text = "#",
         },
-      [18] = {
+      [3] = {
         backcolour = 0,
         textcolour = 16777215,
         length = 1,
@@ -5088,12 +5088,12 @@
         style = 0,
         text = "##",
         },
-      [3] = {
+      [18] = {
         backcolour = 0,
-        textcolour = 16777215,
+        textcolour = 12632256,
         length = 1,
-        style = 1,
-        text = "#",
+        style = 0,
+        text = ".",
         },
       [20] = {
         backcolour = 0,
@@ -5102,12 +5102,12 @@
         style = 1,
         text = "~~",
         },
-      [18] = {
+      [3] = {
         backcolour = 0,
-        textcolour = 12632256,
+        textcolour = 16777215,
         length = 1,
-        style = 0,
-        text = ".",
+        style = 1,
+        text = "#",
         },
       [17] = {
         backcolour = 0,
@@ -5435,12 +5435,12 @@
         style = 0,
         text = "^^^",
         },
-      [3] = {
+      [18] = {
         backcolour = 0,
-        textcolour = 32768,
+        textcolour = 16711680,
         length = 3,
-        style = 0,
-        text = "###",
+        style = 1,
+        text = "...",
         },
       [20] = {
         backcolour = 0,
@@ -5449,12 +5449,12 @@
         style = 1,
         text = "*",
         },
-      [18] = {
+      [3] = {
         backcolour = 0,
-        textcolour = 16711680,
+        textcolour = 32768,
         length = 3,
-        style = 1,
-        text = "...",
+        style = 0,
+        text = "###",
         },
       [17] = {
         backcolour = 0,
@@ -5775,12 +5775,12 @@
         style = 0,
         text = ".",
         },
-      [3] = {
+      [18] = {
         backcolour = 0,
-        textcolour = 32896,
-        length = 1,
-        style = 0,
-        text = "#",
+        textcolour = 16711680,
+        length = 4,
+        style = 1,
+        text = "....",
         },
       [20] = {
         backcolour = 0,
@@ -5789,12 +5789,12 @@
         style = 0,
         text = ".",
         },
-      [18] = {
+      [3] = {
         backcolour = 0,
-        textcolour = 16711680,
-        length = 4,
-        style = 1,
-        text = "....",
+        textcolour = 32896,
+        length = 1,
+        style = 0,
+        text = "#",
         },
       [17] = {
         backcolour = 0,
@@ -5952,12 +5952,12 @@
         style = 1,
         text = "#",
         },
-      [4] = {
+      [26] = {
         backcolour = 0,
-        textcolour = 32768,
-        length = 4,
-        style = 0,
-        text = "####",
+        textcolour = 16711680,
+        length = 2,
+        style = 1,
+        text = "..",
         },
       [28] = {
         backcolour = 0,
@@ -5966,12 +5966,12 @@
         style = 0,
         text = ".",
         },
-      [26] = {
+      [4] = {
         backcolour = 0,
-        textcolour = 16711680,
-        length = 2,
-        style = 1,
-        text = "..",
+        textcolour = 32768,
+        length = 4,
+        style = 0,
+        text = "####",
         },
       [18] = {
         backcolour = 0,
@@ -7107,19 +7107,19 @@
         style = 1,
         textcolour = 65535,
         },
-      [18] = {
-        backcolour = 0,
-        text = "..",
-        length = 2,
-        style = 1,
-        textcolour = 65535,
-        },
       [3] = {
         backcolour = 0,
         text = "##",
         length = 2,
         style = 0,
         textcolour = 32768,
+        },
+      [18] = {
+        backcolour = 0,
+        text = "..",
+        length = 2,
+        style = 1,
+        textcolour = 65535,
         },
       [16] = {
         backcolour = 0,
@@ -7645,19 +7645,19 @@
         style = 0,
         textcolour = 32768,
         },
-      [18] = {
-        backcolour = 0,
-        text = "##",
-        length = 2,
-        style = 0,
-        textcolour = 32768,
-        },
       [3] = {
         backcolour = 0,
         text = "##",
         length = 2,
         style = 0,
         textcolour = 32896,
+        },
+      [18] = {
+        backcolour = 0,
+        text = "##",
+        length = 2,
+        style = 0,
+        textcolour = 32768,
         },
       [16] = {
         backcolour = 0,
@@ -9085,19 +9085,19 @@
         style = 1,
         textcolour = 16776960,
         },
-      [18] = {
-        backcolour = 0,
-        text = "###",
-        length = 3,
-        style = 0,
-        textcolour = 32768,
-        },
       [3] = {
         backcolour = 0,
         text = "~",
         length = 1,
         style = 1,
         textcolour = 16776960,
+        },
+      [18] = {
+        backcolour = 0,
+        text = "###",
+        length = 3,
+        style = 0,
+        textcolour = 32768,
         },
       [16] = {
         backcolour = 0,
@@ -10168,12 +10168,12 @@
         style = 0,
         textcolour = 12632256,
         },
-      [18] = {
+      [3] = {
         backcolour = 0,
-        text = "~~",
+        text = "##",
         length = 2,
-        style = 1,
-        textcolour = 16711680,
+        style = 0,
+        textcolour = 32768,
         },
       [17] = {
         backcolour = 0,
@@ -10196,12 +10196,12 @@
         style = 1,
         textcolour = 65280,
         },
-      [3] = {
+      [18] = {
         backcolour = 0,
-        text = "##",
+        text = "~~",
         length = 2,
-        style = 0,
-        textcolour = 32768,
+        style = 1,
+        textcolour = 16711680,
         },
       },
     [39] = {
@@ -14333,46 +14333,60 @@
         textcolour = 128,
         },
       },
-    [7] = {
+    [17] = {
       [2] = {
         backcolour = 0,
-        text = ".",
-        length = 1,
+        text = "..",
+        length = 2,
         style = 1,
         textcolour = 65535,
         },
+      [8] = {
+        backcolour = 0,
+        text = "~~~~",
+        length = 4,
+        style = 1,
+        textcolour = 16711680,
+        },
       [5] = {
         backcolour = 0,
-        text = "####",
-        length = 4,
+        text = "############",
+        length = 12,
         style = 0,
         textcolour = 128,
         },
       [3] = {
         backcolour = 0,
-        text = "#",
-        length = 1,
+        text = "##",
+        length = 2,
+        style = 0,
+        textcolour = 128,
+        },
+      [7] = {
+        backcolour = 0,
+        text = "##",
+        length = 2,
         style = 0,
         textcolour = 128,
         },
       [1] = {
         backcolour = 0,
-        text = "~~~~~",
-        length = 5,
+        text = "~~~",
+        length = 3,
         style = 1,
         textcolour = 16711680,
         },
       [4] = {
         backcolour = 0,
-        text = "###########",
-        length = 11,
-        style = 0,
-        textcolour = 32896,
+        text = "*",
+        length = 1,
+        style = 1,
+        textcolour = 65280,
         },
       [6] = {
         backcolour = 0,
-        text = "~~~~~~~~",
-        length = 8,
+        text = "~~~~",
+        length = 4,
         style = 1,
         textcolour = 16711680,
         },
@@ -14530,7 +14544,7 @@
         textcolour = 16711680,
         },
       },
-    [21] = {
+    [8] = {
       [2] = {
         backcolour = 0,
         text = "..",
@@ -14540,15 +14554,15 @@
         },
       [5] = {
         backcolour = 0,
-        text = "######",
-        length = 6,
+        text = "####",
+        length = 4,
         style = 0,
         textcolour = 128,
         },
       [3] = {
         backcolour = 0,
-        text = "######",
-        length = 6,
+        text = "#",
+        length = 1,
         style = 0,
         textcolour = 128,
         },
@@ -14561,15 +14575,15 @@
         },
       [4] = {
         backcolour = 0,
-        text = "^^^^",
-        length = 4,
+        text = "############",
+        length = 12,
         style = 0,
         textcolour = 32896,
         },
       [6] = {
         backcolour = 0,
-        text = "~~~~~~~~",
-        length = 8,
+        text = "~~~~~~~",
+        length = 7,
         style = 1,
         textcolour = 16711680,
         },
@@ -14604,60 +14618,46 @@
         textcolour = 128,
         },
       },
-    [17] = {
+    [7] = {
       [2] = {
         backcolour = 0,
-        text = "..",
-        length = 2,
+        text = ".",
+        length = 1,
         style = 1,
         textcolour = 65535,
         },
-      [8] = {
-        backcolour = 0,
-        text = "~~~~",
-        length = 4,
-        style = 1,
-        textcolour = 16711680,
-        },
       [5] = {
         backcolour = 0,
-        text = "############",
-        length = 12,
+        text = "####",
+        length = 4,
         style = 0,
         textcolour = 128,
         },
       [3] = {
         backcolour = 0,
-        text = "##",
-        length = 2,
-        style = 0,
-        textcolour = 128,
-        },
-      [7] = {
-        backcolour = 0,
-        text = "##",
-        length = 2,
+        text = "#",
+        length = 1,
         style = 0,
         textcolour = 128,
         },
       [1] = {
         backcolour = 0,
-        text = "~~~",
-        length = 3,
+        text = "~~~~~",
+        length = 5,
         style = 1,
         textcolour = 16711680,
         },
       [4] = {
         backcolour = 0,
-        text = "*",
-        length = 1,
-        style = 1,
-        textcolour = 65280,
+        text = "###########",
+        length = 11,
+        style = 0,
+        textcolour = 32896,
         },
       [6] = {
         backcolour = 0,
-        text = "~~~~",
-        length = 4,
+        text = "~~~~~~~~",
+        length = 8,
         style = 1,
         textcolour = 16711680,
         },
@@ -14966,129 +14966,6 @@
         textcolour = 32896,
         },
       },
-    [26] = {
-      [2] = {
-        backcolour = 0,
-        text = "~",
-        length = 1,
-        style = 1,
-        textcolour = 16776960,
-        },
-      [5] = {
-        backcolour = 0,
-        text = "^",
-        length = 1,
-        style = 0,
-        textcolour = 32896,
-        },
-      [4] = {
-        backcolour = 0,
-        text = "####",
-        length = 4,
-        style = 0,
-        textcolour = 128,
-        },
-      [9] = {
-        backcolour = 0,
-        text = "~~~~~~~~",
-        length = 8,
-        style = 1,
-        textcolour = 16711680,
-        },
-      [8] = {
-        backcolour = 0,
-        text = "####",
-        length = 4,
-        style = 0,
-        textcolour = 128,
-        },
-      [3] = {
-        backcolour = 0,
-        text = "..",
-        length = 2,
-        style = 1,
-        textcolour = 65535,
-        },
-      [7] = {
-        backcolour = 0,
-        text = "^",
-        length = 1,
-        style = 0,
-        textcolour = 32896,
-        },
-      [1] = {
-        backcolour = 0,
-        text = "~~",
-        length = 2,
-        style = 1,
-        textcolour = 16711680,
-        },
-      [6] = {
-        backcolour = 0,
-        text = "~~~~~~~",
-        length = 7,
-        style = 1,
-        textcolour = 65535,
-        },
-      },
-    [5] = {
-      [2] = {
-        backcolour = 0,
-        text = ".",
-        length = 1,
-        style = 1,
-        textcolour = 65535,
-        },
-      [8] = {
-        backcolour = 0,
-        text = "~~~~~~~~~~",
-        length = 10,
-        style = 1,
-        textcolour = 16711680,
-        },
-      [5] = {
-        backcolour = 0,
-        text = "?",
-        length = 1,
-        style = 1,
-        textcolour = 16777215,
-        },
-      [3] = {
-        backcolour = 0,
-        text = "##",
-        length = 2,
-        style = 0,
-        textcolour = 128,
-        },
-      [7] = {
-        backcolour = 0,
-        text = "#####",
-        length = 5,
-        style = 0,
-        textcolour = 128,
-        },
-      [1] = {
-        backcolour = 0,
-        text = "~~~~~",
-        length = 5,
-        style = 1,
-        textcolour = 16711680,
-        },
-      [4] = {
-        backcolour = 0,
-        text = "##",
-        length = 2,
-        style = 0,
-        textcolour = 32896,
-        },
-      [6] = {
-        backcolour = 0,
-        text = "####",
-        length = 4,
-        style = 0,
-        textcolour = 32896,
-        },
-      },
     [4] = {
       [2] = {
         backcolour = 0,
@@ -15166,6 +15043,129 @@
         length = 2,
         style = 0,
         textcolour = 128,
+        },
+      },
+    [5] = {
+      [2] = {
+        backcolour = 0,
+        text = ".",
+        length = 1,
+        style = 1,
+        textcolour = 65535,
+        },
+      [8] = {
+        backcolour = 0,
+        text = "~~~~~~~~~~",
+        length = 10,
+        style = 1,
+        textcolour = 16711680,
+        },
+      [5] = {
+        backcolour = 0,
+        text = "?",
+        length = 1,
+        style = 1,
+        textcolour = 16777215,
+        },
+      [3] = {
+        backcolour = 0,
+        text = "##",
+        length = 2,
+        style = 0,
+        textcolour = 128,
+        },
+      [7] = {
+        backcolour = 0,
+        text = "#####",
+        length = 5,
+        style = 0,
+        textcolour = 128,
+        },
+      [1] = {
+        backcolour = 0,
+        text = "~~~~~",
+        length = 5,
+        style = 1,
+        textcolour = 16711680,
+        },
+      [4] = {
+        backcolour = 0,
+        text = "##",
+        length = 2,
+        style = 0,
+        textcolour = 32896,
+        },
+      [6] = {
+        backcolour = 0,
+        text = "####",
+        length = 4,
+        style = 0,
+        textcolour = 32896,
+        },
+      },
+    [26] = {
+      [2] = {
+        backcolour = 0,
+        text = "~",
+        length = 1,
+        style = 1,
+        textcolour = 16776960,
+        },
+      [5] = {
+        backcolour = 0,
+        text = "^",
+        length = 1,
+        style = 0,
+        textcolour = 32896,
+        },
+      [4] = {
+        backcolour = 0,
+        text = "####",
+        length = 4,
+        style = 0,
+        textcolour = 128,
+        },
+      [9] = {
+        backcolour = 0,
+        text = "~~~~~~~~",
+        length = 8,
+        style = 1,
+        textcolour = 16711680,
+        },
+      [8] = {
+        backcolour = 0,
+        text = "####",
+        length = 4,
+        style = 0,
+        textcolour = 128,
+        },
+      [3] = {
+        backcolour = 0,
+        text = "..",
+        length = 2,
+        style = 1,
+        textcolour = 65535,
+        },
+      [7] = {
+        backcolour = 0,
+        text = "^",
+        length = 1,
+        style = 0,
+        textcolour = 32896,
+        },
+      [1] = {
+        backcolour = 0,
+        text = "~~",
+        length = 2,
+        style = 1,
+        textcolour = 16711680,
+        },
+      [6] = {
+        backcolour = 0,
+        text = "~~~~~~~",
+        length = 7,
+        style = 1,
+        textcolour = 65535,
         },
       },
     [30] = {
@@ -15639,7 +15639,7 @@
         textcolour = 65280,
         },
       },
-    [8] = {
+    [21] = {
       [2] = {
         backcolour = 0,
         text = "..",
@@ -15649,15 +15649,15 @@
         },
       [5] = {
         backcolour = 0,
-        text = "####",
-        length = 4,
+        text = "######",
+        length = 6,
         style = 0,
         textcolour = 128,
         },
       [3] = {
         backcolour = 0,
-        text = "#",
-        length = 1,
+        text = "######",
+        length = 6,
         style = 0,
         textcolour = 128,
         },
@@ -15670,15 +15670,15 @@
         },
       [4] = {
         backcolour = 0,
-        text = "############",
-        length = 12,
+        text = "^^^^",
+        length = 4,
         style = 0,
         textcolour = 32896,
         },
       [6] = {
         backcolour = 0,
-        text = "~~~~~~~",
-        length = 7,
+        text = "~~~~~~~~",
+        length = 8,
         style = 1,
         textcolour = 16711680,
         },
@@ -16117,20 +16117,20 @@
         text = "             ",
         },
       },
-    [4] = {
+    [26] = {
       [2] = {
         backcolour = 0,
-        textcolour = 16777215,
-        length = 26,
-        style = 1,
-        text = ".                         ",
+        textcolour = 32896,
+        length = 19,
+        style = 0,
+        text = "#                  ",
         },
       [1] = {
         backcolour = 0,
         textcolour = 12632256,
-        length = 4,
+        length = 11,
         style = 0,
-        text = "    ",
+        text = "           ",
         },
       },
     [28] = {
@@ -16156,20 +16156,20 @@
         text = "#                  ",
         },
       },
-    [26] = {
+    [4] = {
       [2] = {
         backcolour = 0,
-        textcolour = 32896,
-        length = 19,
-        style = 0,
-        text = "#                  ",
+        textcolour = 16777215,
+        length = 26,
+        style = 1,
+        text = ".                         ",
         },
       [1] = {
         backcolour = 0,
         textcolour = 12632256,
-        length = 11,
+        length = 4,
         style = 0,
-        text = "           ",
+        text = "    ",
         },
       },
     [18] = {

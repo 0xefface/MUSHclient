@@ -97,7 +97,7 @@
    use_custom_link_colour="y"
    warn_if_scripting_inactive="y"
    wrap="y"
-   wrap_column="90"
+   wrap_column="101"
    write_world_name_to_log="y"
    > <!-- end of general world attributes -->
 
